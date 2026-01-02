@@ -10,6 +10,7 @@ namespace Multiple_If_Else_Example
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("IF ELSE IF EXAMPLE STARTED");
             //datatype variable name  //we called variable declaration
             int score;// variable declaration
             Console.WriteLine("enter score number");  //this statement is used to print the data
